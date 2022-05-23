@@ -7,4 +7,4 @@ Ensure the queries are optimized for efficiency
 Once data is compiled, my goal is to visualize the data into a dashboard and pull together insights that can be gained.
 
 Current State & Findings
-Deficiencies & Areas of Improvement
+Deficiencies & Areas of Improvement 
